@@ -1,77 +1,82 @@
 {
-	"chks": {
-		"BB": {
-			"status": true,
-			"version": 1.0,
-		},
-		"NEW_IG": {
-			"status": true,
-			"version": 1.0,
-		},
-		"BURLA_PERGUNTAS_FGTS": {
-			"status": true,
-			"version": 1.0,
-		},
-		"DATA_NASC": {
-			"status": true,
-			"version": 1.0,
-		},
-		"TERRAMAIL": {
-			"status": true,
-			"version": 1.0,
-		},
-		"FGTS_NEW": {
-			"status": true,
-			"version": 1.0,
-		},
-		"YAHOO": {
-			"status": true,
-			"version": 1.0,
-		},
-		"UNOCHAPECO": {
-			"status": true,
-			"version": 1.0,
-		},
-		"VERIFICADOR_EMAIL_CXTEM": {
-			"status": true,
-			"version": 1.0,
-		},
-		"CADASTRADOR_FGTS": {
-			"status": true,
-			"version": 1.0,
-		},
-		"FGTS_SEMCAD_LOGANDO": {
-			"status": true,
-			"version": 1.0,
-		},
-		"DETECT_CX": {
-			"status": true,
-			"version": 1.0,
-		},
-		"CXTEM_FULL": {
-			"status": true,
-			"version": 1.0,
-		},
-		"SEGURO_DESEMPREGO": {
-			"status": true,
-			"version": 1.0,
-		},
-		"ABONO": {
-			"status": true,
-			"version": 1.0,
-		},
-		"UOL": {
-			"status": true,
-			"version": 1.0,
-		},
-		"CORNERSHOP": {
-			"status": true,
-			"version": 1.0,
-		},
-		"PORTO": {
-			"status": true,
-			"version": 1.0,
-		}
-	},
-  "sellers": ["@JohnGrimm37", "@mathdbr", "@SmKiinnN", "@Junior_Netcom"]
+    "chks": {
+        "BB": {
+            "status": true,
+            "version": 1.0
+        },
+        "NEW_IG": {
+            "status": true,
+            "version": 1.0
+        },
+        "BURLA_PERGUNTAS_FGTS": {
+            "status": true,
+            "version": 1.0
+        },
+        "DATA_NASC": {
+            "status": true,
+            "version": 1.0
+        },
+        "TERRAMAIL": {
+            "status": true,
+            "version": 1.0
+        },
+        "FGTS_NEW": {
+            "status": true,
+            "version": 1.0
+        },
+        "YAHOO": {
+            "status": true,
+            "version": 1.0
+        },
+        "UNOCHAPECO": {
+            "status": true,
+            "version": 1.0
+        },
+        "VERIFICADOR_EMAIL_CXTEM": {
+            "status": true,
+            "version": 1.0
+        },
+        "CADASTRADOR_FGTS": {
+            "status": true,
+            "version": 1.0
+        },
+        "FGTS_SEMCAD_LOGANDO": {
+            "status": true,
+            "version": 1.0
+        },
+        "DETECT_CX": {
+            "status": true,
+            "version": 1.0
+        },
+        "CXTEM_FULL": {
+            "status": true,
+            "version": 1.0
+        },
+        "SEGURO_DESEMPREGO": {
+            "status": true,
+            "version": 1.0
+        },
+        "ABONO": {
+            "status": true,
+            "version": 1.0
+        },
+        "UOL": {
+            "status": true,
+            "version": 1.0
+        },
+        "CORNERSHOP": {
+            "status": true,
+            "version": 1.0
+        },
+        "PORTO": {
+            "status": true,
+            "version": 1.0
+        }
+    },
+    "sellers": [
+        "@JohnGrimm37",
+        "@mathdbr",
+        "@SmKiinnN",
+        "@Junior_Netcom"
+    ]
 }
